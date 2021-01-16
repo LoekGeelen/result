@@ -1,1 +1,1 @@
-<h1>Juiste antwoord!</h1>
+<h1>Het juiste antwoord!</h1>
