@@ -1,2 +1,2 @@
-<h1>Results tic-tac-toe:</h1>
-<h2>...</h2>
+<h1>Results of (game):</h1>
+
