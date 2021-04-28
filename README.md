@@ -1,1 +1,2 @@
-<h1>Het juiste antwoord!</h1>
+<h1>The current ranking of tic-tac-toe:</h1>
+<h2>...</h2>
